@@ -1,5 +1,3 @@
-# LangChain-DocAssistant
-Best if your project handles multiple PDFs and emphasizes AI interaction.
 # 🤖 LangChain Smart Document Assistant
 
 A **Streamlit + LangChain-powered AI application** that reads PDFs, extracts embeddings, retrieves context, and auto-formats intelligent responses using zero-shot routing and parallel LLM generation.
